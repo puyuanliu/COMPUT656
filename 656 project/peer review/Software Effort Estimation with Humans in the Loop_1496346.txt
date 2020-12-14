@@ -1,0 +1,4 @@
+Good part: Good graphical illustration. Key information are pointed out (e.g., the pothesis figure).
+
+Bad part:Some figure (e.g., flowchart in the related work slide) has too small font size to read. 
+

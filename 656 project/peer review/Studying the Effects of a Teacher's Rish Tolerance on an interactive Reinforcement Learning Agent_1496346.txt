@@ -1,0 +1,4 @@
+Good part: Good graphical illustration of the Reinforcement Learning. 
+
+Bad part: For the plot of the learning curver, it will be easier for the reader to understand if placing labels 
+	  nearby the learning curves. 

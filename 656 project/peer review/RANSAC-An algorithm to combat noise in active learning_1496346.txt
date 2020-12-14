@@ -1,0 +1,2 @@
+Good part: Flowchart made the algorithm eaiser to understand. 
+Bad part: Too many words in the slides, more figures can help the understanding. 
